@@ -1,0 +1,5 @@
+C:\Prog\siaod\Lab 5\x64\Debug\Lab 5.exe
+C:\Prog\siaod\Lab 5\x64\Debug\Lab 5.pdb
+C:\Users\Alex\Desktop\Lab 5\x64\Debug\Lab 5.exe
+C:\Users\Alex\Desktop\Новая папка\Lab 5\x64\Debug\Lab 5.exe
+C:\Users\Alex\Desktop\Новая папка\Lab 5\x64\Debug\Lab 5.pdb
